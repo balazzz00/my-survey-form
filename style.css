@@ -1,0 +1,54 @@
+
+
+fieldset
+{
+    width: 60%;
+  text-align: left;
+  margin-left: 20%;
+}
+
+span{
+    color: red;
+}
+#email{
+    width: 250px;
+}
+
+
+.star
+{
+    color:orange;
+    font-size: 30px;
+}
+
+table{
+    border-spacing: 20px;
+    border: 15px;
+    border: 5px;
+   
+}
+.t1,.t2{
+ position: relative;
+ left: 20px;
+}
+#tablespace0{
+    position: relative;
+    bottom: 40px;
+}
+
+#add{
+    width: 99%;
+    height: 70px;
+}
+
+.tablecolor{
+
+   background-color: rgb(240, 223, 179);
+ 
+}
+
+#add1{
+    height: 30px;
+    width: 70px;
+    font-size:medium;
+}
